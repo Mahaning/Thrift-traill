@@ -12,7 +12,8 @@ Thrift-Trail is an Android app developed using Flutter and Firebase, aimed at pr
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot1.jpg)
+![Home Page](![WhatsApp Image 2024-05-28 at 10 41 41_4dda9dcf](https://github.com/Mahaning/Thrift-traill/assets/92427624/62d1c5e9-bd29-449b-bddc-0353832e9160)
+)
 ![Screenshot 2](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot2.jpg)
 ![Screenshot 3](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot3.jpg)
 ![Screenshot 4](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot4.jpg)
