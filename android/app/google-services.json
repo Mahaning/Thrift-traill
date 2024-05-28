@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769044522492",
+    "project_id": "thrifttrail-36241",
+    "storage_bucket": "thrifttrail-36241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769044522492:android:92421634c8ec6a5a5ebe79",
+        "android_client_info": {
+          "package_name": "com.example.trift_till"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7ckKJRGX1vYlpvSZYreIyQHevZMPtss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769044522492:android:5b4d73fb2e4cb4f15ebe79",
+        "android_client_info": {
+          "package_name": "com.example.triftt_trill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7ckKJRGX1vYlpvSZYreIyQHevZMPtss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
