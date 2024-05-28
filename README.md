@@ -44,7 +44,7 @@ Thrift-Trail is an Android app developed using Flutter and Firebase, aimed at pr
 
 To get started with Thrift-Trail, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/thrift-trail.git`
+1. Clone this repository: `git clone https://github.com/Mahaning/Thrift-traill.git`
 2. Navigate to the project directory: `cd thrift-trail` remove firbase.json and add your firbase.json with required data(if it is not auto genrated means)
 3. Install dependencies: `flutter pub get`
 4. Connect your app to Firebase by following the instructions [here](https://firebase.google.com/docs/flutter/setup).
