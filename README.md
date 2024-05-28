@@ -11,22 +11,34 @@ Thrift-Trail is an Android app developed using Flutter and Firebase, aimed at pr
 - **Friend Management:** Add friends from your contact list or manually, and manage your friends list efficiently.
 
 ## Screenshots
+***Home Page***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 41_4dda9dcf](https://github.com/Mahaning/Thrift-traill/assets/92427624/62d1c5e9-bd29-449b-bddc-0353832e9160)<hr/>
 
-![Home Page](![WhatsApp Image 2024-05-28 at 10 41 41_4dda9dcf](https://github.com/Mahaning/Thrift-traill/assets/92427624/62d1c5e9-bd29-449b-bddc-0353832e9160)
-)
-![add transactions](![WhatsApp Image 2024-05-28 at 10 41 40_4a8eba9b](https://github.com/Mahaning/Thrift-traill/assets/92427624/0208a3eb-a3eb-4b3c-b7d1-c18536668e66)
-)
-![Transaction Page](![WhatsApp Image 2024-05-28 at 10 41 40_54c6525a](https://github.com/Mahaning/Thrift-traill/assets/92427624/8e5ff7a7-63b1-4ed1-b316-b6398fd92987)
-)
-![Screenshot 4](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot4.jpg)
-![Screenshot 5](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot5.jpg)
-![Screenshot 6](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot6.jpg)
-![Screenshot 7](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot7.jpg)
-![Screenshot 8](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot8.jpg)
-![Screenshot 9](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot9.jpg)
-![Screenshot 10](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot10.jpg)
-![Screenshot 11](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot11.jpg)
-![Screenshot 12](https://github.com/Mahaning/Thrift-traill/assets/screenshots/screenshot12.jpg)
+<br/><br/>***Add transction Page***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 40_4a8eba9b](https://github.com/Mahaning/Thrift-traill/assets/92427624/0208a3eb-a3eb-4b3c-b7d1-c18536668e66)<hr/>
+
+<br/><br/> ***transction Page*** <br/><br/> 
+![WhatsApp Image 2024-05-28 at 10 41 40_54c6525a](https://github.com/Mahaning/Thrift-traill/assets/92427624/8e5ff7a7-63b1-4ed1-b316-b6398fd92987) <hr/>
+<br/><br/>***transction Page***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 40_4d689bb4](https://github.com/Mahaning/Thrift-traill/assets/92427624/aa03edc6-f132-414a-9cf8-dd5f57c80330)<hr/>
+<br/><br/>***transction Page***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 39_4581f7ab](https://github.com/Mahaning/Thrift-traill/assets/92427624/cfbca6a5-f516-4161-96aa-ce188a54e0d7)<hr/>
+<br/><br/>***Add transction Page***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 39_bbaf0f7f](https://github.com/Mahaning/Thrift-traill/assets/92427624/d52a9f94-999e-4b3a-bc39-3bb0fadcb033)<hr/>
+<br/><br/>***To DO Task List Page***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 38_f4588dd2](https://github.com/Mahaning/Thrift-traill/assets/92427624/d14423e6-e0bd-46a4-a474-8e5f7f9d81e7)<hr/>
+<br/><br/>***Add To DO Task Page***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 38_c5dd58cd](https://github.com/Mahaning/Thrift-traill/assets/92427624/b473ec5c-255a-44b9-bf86-70c536b7d5c1)<hr/>
+<br/><br/>***Split the Bill: calculate bill***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 38_6d06d79f](https://github.com/Mahaning/Thrift-traill/assets/92427624/eaacad65-e458-43cc-9b41-985ad72835dd)<hr/>
+<br/><br/>***Split the Bill: split bill add frinds***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 36_2529454a](https://github.com/Mahaning/Thrift-traill/assets/92427624/a7de6989-073f-42a4-885d-dcdbb657921b)<hr/>
+<br/><br/>***Split the Bill:  bills list***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 37_15cda42b](https://github.com/Mahaning/Thrift-traill/assets/92427624/9293470a-2882-40c6-b9a2-ef43849674b9)<hr/>
+<br/><br/>***Split the Bill:  bills Details***<br/><br/>
+![WhatsApp Image 2024-05-28 at 10 41 36_c4e87a79](https://github.com/Mahaning/Thrift-traill/assets/92427624/ef0aee7d-77c2-433a-ae12-641c9110b089)<hr/>
+
+
 
 ## Getting Started
 
