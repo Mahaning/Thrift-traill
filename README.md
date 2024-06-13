@@ -10,6 +10,12 @@ Thrift-Trail is an Android app developed using Flutter and Firebase, aimed at pr
 - **Bill Splitting:** Effortlessly split bills among friends and keep track of payment history.
 - **Friend Management:** Add friends from your contact list or manually, and manage your friends list efficiently.
 
+## Video :
+here you can find vedio clip in my linked in post:
+```
+https://www.linkedin.com/posts/mahaning-hubballi-76b796222_flutter-firebase-appdevelopment-activity-7201135194005782528-Kh_f?utm_source=share&utm_medium=member_desktop
+```
+
 ## Screenshots
 ***Home Page***<br/><br/>
 ![WhatsApp Image 2024-05-28 at 10 41 41_4dda9dcf](https://github.com/Mahaning/Thrift-traill/assets/92427624/62d1c5e9-bd29-449b-bddc-0353832e9160)<hr/>
